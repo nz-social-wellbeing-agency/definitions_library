@@ -1,8 +1,8 @@
 # IDI definitions library
-Duplicate copies of definitions from our projects in a single repository for ease of discovery. These definitions are intended to be compatible with the Tool Accelerating Dataset Assembly (TADA).
+Duplicate copies of definitions from our projects in a single repository for ease of discovery. These definitions are intended to be compatible with the Dataset Assembly Tool.
 
 ## Overview
-TADA encourages research projects to structure their input data into population and measures. The population is specific to a specific study and includes who is being studied and over what time period. The measures are not specific to a study. This means they can be reused across research projects.
+The Dataset Assembly Tool encourages research projects to structure their input data into population and measures. The population is specific to a specific study and includes who is being studied and over what time period. The measures are not specific to a study. This means they can be reused across research projects.
 
 When creating a new measure, researchers are encouraged to construct the best definition of the measure that they can. By creating and sharing high quality definitions, the quality of research will improve.
 

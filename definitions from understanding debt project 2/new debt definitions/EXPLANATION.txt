@@ -1,0 +1,17 @@
+Midway though phase 2 research, we reworked the debt definitions to make them
+faster and easier.
+
+This folder contains the revised definitions along with the rows for the control
+file that use these revised definitions in place of the original definitions.
+
+To use these definitions:
+- Run each SQL file
+- Remove the existing debt rows from the measures.xlsx control file
+- Add the rows from measure_new.xlsx control file to the measures.xlsx file
+
+Researchers may wish to compare the old and new approaches to understand
+how to bettere prepare data for the assembly tool.
+- The old approach manually pivots the data
+	and creates each varaible as a separate column, requiring a separate label
+- The new approach avoids pivtoing that data
+	and creates variable labels as part of the SQL view

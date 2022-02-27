@@ -4,6 +4,7 @@ Author: Shaan Badenhorst
 
 Acknowledgements:
 Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+Steven Johnston provided comments on the definition.
 
 Inputs & Dependencies:
 - [IDI_Adhoc].[clean_read_MOH_CIR].[moh_CIR_vaccination_activity20211123]
@@ -32,12 +33,27 @@ Notes:
 	are loaded. Custom naming of output table may also be advised in case of multiple
 	versions.
 
+5) The concept of vaccination status is likely to evolve over time as immunity wears off
+	and boosters are introduced. Hence it is important to keep in touch with what the
+	vaccination programme are doing.
+
+6) Since the creation of this definition, Stats NZ have done addition work to improve the link
+	rate for the CIR. This script only picks up links from [snz_moh_uid] to [snz_uid] but recent
+	CIR tables include additional links direct to [snz_uid]. Users of the CIR are advised to
+	use the improved links by Stats NZ. These come from:
+	- linking of NHIs that appeared for the first time in the vaccination data,
+	- finding links for NHIs in the CIR data that had not previously been linked.
+
 Parameters & Present values:
   Current refresh = 20211020
   Prefix = vacc_
   Project schema = DL-MAA2021-49
  
 Issues:
+1) Dose numbers in the CIR data can contain errors. For example, a person might have no dose 1
+	and two dose 2, or one dose 1 and one dose 3 but no dose 2. It is now recommended to ignore dose
+	number and instead count the number of doses and turn this into vaccination status:
+	1 dose => partially vaccinated, 2 or more doses => fully vaccianted.
 
 History (reverse order):
 2021-10-12 SB

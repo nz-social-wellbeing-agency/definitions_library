@@ -4,6 +4,7 @@ Author: Craig Wright
 
 Acknowledgements:
 Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+Staff at MoH provided comments on this definition.
 
 Inputs & Dependencies:
 - [IDI_Clean].[moh_clean].[pub_fund_hosp_discharges_diag]
@@ -34,16 +35,21 @@ Has a person had recent serious mental health diagnosis or event.
 Notes:
 1) Two types of events included:
 	- any serious diagnosis - schizophrenia, Bi polar, major depressive disorder, schizoaffective disorder
-	- any current PRIMHD/MHINC service so referral period
+	- any PRIMHD/MHINC service started in the reference period
+	
 2) Multiple sources included in definition:
 	1. Y public hospital discharge diagnosis (ICD10) x 6 3 digit codes
 	2. Y private hospital discharge diagnosis (ICD10) x 6 3 digit codes
 	3. N MHINC service -- no as too early
-	4.a Y PRIMHD service by refferal period by date -- NB BASED ON RECENT SERVICE DATE
+	4.a Y PRIMHD service by referral period by date -- NB BASED ON RECENT SERVICE DATE
 	4.b Y PRIMHD diagnosis codes
 	5. Y InterRAI diagnosis by question x 2 questions
 	6. Y SOCRATES by diagnosis x 2 codes
 	7. Y MSD incapaciation
+	
+3) MoH advises that in PRIMHD, we consider a current referral to be any referral "open" within the period.
+	So, the referral may have started prior or during the study period and the end date will be either during
+	or 	after the end of the study period.
 	
 Parameters & Present values:
   Current refresh = 20211020
@@ -51,8 +57,14 @@ Parameters & Present values:
   Project schema = DL-MAA2021-49
  
 Issues:
+1) PRIMHD section only uses the referral start date. This means it only captures referrals that started during
+	the study period. To capture all open referrals code needs to be modified to consider referral end dates.
+
+2) Some MHA referrals go on have no activity (e.g. referral declined). Depending on the purpose of the research
+	it would be more effective to consider referrals that resulted in some kind of specialist MHA service.
 
 History (reverse order):
+2022-02-28 SA incorporate comments from MoH staff
 2021-12-01 SA tidy
 2021-11-02 CW
 **************************************************************************************************/

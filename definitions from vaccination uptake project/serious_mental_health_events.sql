@@ -150,8 +150,9 @@ FROM [IDI_Adhoc].[clean_read_MOH_PRIMHD].[primhd_diagnoses] AS a
 INNER JOIN [IDI_Clean_20211020].[security].[concordance] AS b
 ON a.[snz_moh_uid] = b.[snz_moh_uid] 
 WHERE ([CLINICAL_CODING_SYSTEM_ID] >= 10 AND SUBSTRING([CLINICAL_CODE],1,3) in ('F30','F31','F33','F20','F21','F25'))
-OR ([CLINICAL_CODING_SYSTEM_ID] >= 7 AND SUBSTRING([CLINICAL_CODE],1,4) in ('2960','2962','2963','2964','2965','2966','2967','2968'))
-OR ([CLINICAL_CODING_SYSTEM_ID] >= 7 AND SUBSTRING([CLINICAL_CODE],1,3) in ('295'))
+/* MOH staff recommend = 7 instead of >= 7 as this is the only code associated with DSM-IV */
+OR ([CLINICAL_CODING_SYSTEM_ID] = 7 AND SUBSTRING([CLINICAL_CODE],1,4) in ('2960','2962','2963','2964','2965','2966','2967','2968'))
+OR ([CLINICAL_CODING_SYSTEM_ID] = 7 AND SUBSTRING([CLINICAL_CODE],1,3) in ('295'))
 GO
 
 /********************************************************

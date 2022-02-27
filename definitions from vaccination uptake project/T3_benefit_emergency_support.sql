@@ -2,6 +2,9 @@
 Title: T3 Benefit receipt
 Author: Shaan Badenhorst
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[msd_clean].[msd_third_tier_expenditure]
 Outputs:

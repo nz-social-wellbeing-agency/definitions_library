@@ -2,6 +2,9 @@
 Title: any indication of serious Mental Health
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[moh_clean].[pub_fund_hosp_discharges_diag]
 - [IDI_Clean].[moh_clean].[pub_fund_hosp_discharges_event]

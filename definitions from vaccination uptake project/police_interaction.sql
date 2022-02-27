@@ -2,6 +2,9 @@
 Title: Flag for recent police interaction
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[pol_clean].[post_count_victimisations]
 - [IDI_Clean].[pol_clean].[post_count_offenders]

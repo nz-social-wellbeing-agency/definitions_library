@@ -2,6 +2,9 @@
 Title: Health Service Users Population (proxy)
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[moh_clean].[interrai]
 - [IDI_Clean].[moh_clean].[lab_claims]

@@ -2,6 +2,9 @@
 Title: MOE school events
 Author: C Wright, C Maccormick and V Benny
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[moe_clean].[student_enrol]
 - [IDI_Clean].[data].[personal_detail]

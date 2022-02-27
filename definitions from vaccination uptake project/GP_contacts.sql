@@ -2,6 +2,9 @@
 Title: GP Contacts
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[acc_clean].[payments]
 - [IDI_Clean].[acc_clean].[claims]

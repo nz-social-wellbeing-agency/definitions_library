@@ -2,6 +2,9 @@
 Title: CHiPs - Community Housing Providers
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[dbh_clean].[bond_lodgement]
 Outputs:

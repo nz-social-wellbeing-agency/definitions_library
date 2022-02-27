@@ -3,6 +3,9 @@ Title: Main benefit spell with type and role
 Author: Simon Anastasiadis
 Reviewer: Marianna Pekar, Freya Li
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[msd_clean].[msd_spell]
 - [IDI_Clean].[msd_clean].[msd_partner]

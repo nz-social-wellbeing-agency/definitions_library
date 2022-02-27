@@ -2,6 +2,9 @@
 Title: Covid-19 Immunisation Register
 Author: Shaan Badenhorst
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Adhoc].[clean_read_MOH_CIR].[moh_CIR_vaccination_activity20211123]
 Outputs:

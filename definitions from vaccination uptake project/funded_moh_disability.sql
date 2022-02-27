@@ -2,6 +2,9 @@
 Title: Recent funded MOH disability client
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Adhoc].[clean_read_MOH_SOCRATES].[moh_needs_assessment_202110]
 - [IDI_Clean].[security].[concordance]

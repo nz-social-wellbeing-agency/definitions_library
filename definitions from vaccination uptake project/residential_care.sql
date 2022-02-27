@@ -2,6 +2,9 @@
 Title: Residential care
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[acc_clean].[payments]
 - [IDI_Adhoc].[clean_read_MOH_SOCRATES].[moh_service_hist_202110]

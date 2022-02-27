@@ -2,6 +2,9 @@
 Title: Level 2 prioritised ethnicity
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[cen_clean].[census_individual_2018]
 - [IDI_Clean].[cen_clean].[census_individual_2013]

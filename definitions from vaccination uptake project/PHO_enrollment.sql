@@ -2,6 +2,9 @@
 Title: PHO enrollment
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[moh_clean].[nes_enrolment]
 - [IDI_Clean].[moh_clean].[pop_cohort_demographics]

@@ -2,6 +2,9 @@
 Title: Most complete NZ population
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[data].[snz_res_pop]
 - [IDI_Adhoc].[clean_read_MSD].[msd_sben_202107]

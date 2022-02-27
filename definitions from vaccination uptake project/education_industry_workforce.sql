@@ -2,6 +2,9 @@
 Title: Education industry employees
 Author: Shaan Badenhorst
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[ir_clean].[ird_ems]
 Outputs:

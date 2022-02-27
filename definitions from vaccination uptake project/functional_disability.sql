@@ -2,6 +2,9 @@
 Title: Functional disability
 Author: Craig Wright
 
+Acknowledgements:
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+
 Inputs & Dependencies:
 - [IDI_Clean].[cen_clean].[census_individual_2018]
 - [IDI_Adhoc].[clean_read_MOH_SOCRATES].[moh_support_needs_202110]

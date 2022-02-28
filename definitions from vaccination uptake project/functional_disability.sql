@@ -4,6 +4,7 @@ Author: Craig Wright
 
 Acknowledgements:
 Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of these definitions
+Shari Mason provided comments on the definition.
 
 Inputs & Dependencies:
 - [IDI_Clean].[cen_clean].[census_individual_2018]
@@ -50,6 +51,18 @@ Notes:
 		ETL=1 & WGSS=2
 		ETL=3 & WGSS=3 or 4
 
+5) When working with SOCRATES code (funded_moh_disability and functional_disability):
+	- Unless you want to know about all historic clients, for most purposes it will
+		make sense to focus on active clients. This involves filtering for active clients
+		and current search history (where start and end dates include today).
+		Client status: Active = currently receiving funding,
+		Client status: Inactive = no longer receiving funding or deceased.
+	- SOCRATES does not map perfectly to the WGSS. The code file Principle Disability Mapping.xlsx
+		contains suggested mappings for identifying principle disability type.
+		People can have up to 15 disagnoses but only two principle diagnoses.
+		There are mapped to six categories that do not align with WGSS.
+	- Use the principal flag to filter diagnoses. Principal diagnoses are the ones
+		that drive eligibility for services.
 
 Parameters & Present values:
   Current refresh = 20211020
@@ -57,8 +70,19 @@ Parameters & Present values:
   Project schema = DL-MAA2021-49
  
 Issues:
+1) This definition not consistent with Stats NZ surveys and Census 2018 definitions of
+	disability. In this definition people who answered the Washington Group Short Set
+	with ‘some difficulty’ are categorised as disabled with a ‘high level functional
+	disability’. The threshold used in Census 2018 and other Stats NZ surveys is to categorise
+	people who respond with ‘a lot of difficulty’ or ‘cannot do at all’ as disabled.
+
+2) Some of the data on needs assessment will be very old (10+ years). Needs assessments
+	happen every three years, so they are not indicatir of whether people are currently
+	receiving services.
+
 
 History (reverse order):
+2022-02-28 SA incorporated comments from MoH staff
 2021-12-02 SA review and tidy
 2021-11-20 CW v1
 **************************************************************************************************/

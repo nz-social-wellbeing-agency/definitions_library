@@ -15,7 +15,7 @@ Description:
 Flag for recent police interaction as victim or offender.
 
 Intended purpose:
-Identifying whether peple have interacted with police in 2020 or 2021
+Identifying whether people have interacted with police in 2020 or 2021
 and if so as a victim or as an offender.
 
 Notes:

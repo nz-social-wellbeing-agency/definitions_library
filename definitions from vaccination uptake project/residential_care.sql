@@ -22,7 +22,7 @@ Description:
 Multi-source indicator for people who are in residential care in 2021
 
 Intended purpose:
-Identifying people who are in resdiential care or who provide residential care.
+Identifying people who are in residential care or who provide residential care.
 Includes interaction of disability and residential care
 
 Notes:
@@ -39,7 +39,7 @@ Notes:
 		- 2 is disabled and living with non-disabled adult 18+ years
 		- 3 is disabled and not living with an non-disabled adult 18+ years
 	sole parent
-		1 adult livng with a child or children
+		1 adult living with a child or children
 		this applies to children and the parent
 
 Parameters & Present values:

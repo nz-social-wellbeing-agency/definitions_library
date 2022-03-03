@@ -14,7 +14,7 @@ Description:
 Emergency Department (ED) visits at hospital.
 
 Intended purpose:
-Identifying presentation at an emergency deparment, counting number of ED visits.
+Identifying presentation at an emergency department, counting number of ED visits.
 
 Notes:
 

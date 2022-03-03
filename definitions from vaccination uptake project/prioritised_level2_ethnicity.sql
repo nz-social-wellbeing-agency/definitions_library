@@ -32,7 +32,7 @@ Description:
 Level 2 source prioritised ethnic codes AS per personal detail table source ranking
 
 Intended purpose:
-More detailed ethnicity information for peple than top 6 categories.
+More detailed ethnicity information for people than top 6 categories.
 
 Notes:
 1) This approach follows the same broad concept AS Stats NZ's approach for the person_details
@@ -53,9 +53,9 @@ Notes:
 	12. SOFIE AS SOF
 	13. LINZ Migrant Survey - not included
 	14. HLFS
-	15. ACM aucland city mission - not included AS one digit codes
+	15. ACM Auckland city mission - not included AS one digit codes
 	16. GSS
-3) Codes for non-response or response unidentifable are given using ranks 98 and 99.
+3) Codes for non-response or response unidentifiable are given using ranks 98 and 99.
 
 Parameters & Present values:
   Current refresh = 20211020

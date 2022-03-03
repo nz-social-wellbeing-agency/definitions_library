@@ -24,14 +24,14 @@ Intended purpose:
 Estimating the population of all NZ
 
 Notes:
-1) This definition follows the same underlying business rules, but diferes in implementation
+1) This definition follows the same underlying business rules, but differs in implementation
 	from the population definition used for the COVID-19 Vaccination study population.
-2) Our motivation in constructing this populaiton is to capture anyone and everyone who is
+2) Our motivation in constructing this population is to capture anyone and everyone who is
 	in New Zealand at present (November 2021). So we combine from multiple sources where we
 	have evidence a person is in the country.
 3) Sources used include:
 	1. Estimated residential population by Stats NZ
-	2. MSD high frequecty load data spells for benefits ending in 2021 (any one receiving a benefit)
+	2. MSD high frequency load data spells for benefits ending in 2021 (anyone receiving a benefit)
 	3. Health Service Users (HSU)
 	4. Anybody with boarder spells putting them in NZ (entered NZ without an exit recorded)
 	5. COVID immunisation register (received vaccination in NZ)

@@ -15,7 +15,7 @@ Address UIDs for local authority Community Housing Providers (CHiPs)
 
 Intended purpose:
 Identifies addresses that are social/community housing provided by
-local authorities, e.g. councils (in constrast to central government
+local authorities, e.g. councils (in contrast to central government
 provided social housing).
 
 Notes:

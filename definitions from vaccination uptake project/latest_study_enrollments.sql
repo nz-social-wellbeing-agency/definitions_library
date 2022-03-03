@@ -16,13 +16,13 @@ Outputs:
 - [IDI_Sandpit].[DL-MAA2021-49].[vacc_education_enrollments]
 
 Description:
-Enrollment in study when enrollment date is post 1 July 2020
+Enrolment in study when enrolment date is post 1 July 2020
 
 Intended purpose:
 Determining who is enrolled in the most recently available data.
 
 Notes:
-1) Enrollment type
+1) Enrolment type
 	1 = primary or secondary schooling
 	2 = targeted training
 	3 = tec or IT training
@@ -34,7 +34,7 @@ Parameters & Present values:
 Current refresh = 20211020
 Prefix = vacc_
 Project schema = DL-MAA2021-49
-Latest enrollment = '2020-07-01'
+Latest enrolment = '2020-07-01'
  
 Issues:
 

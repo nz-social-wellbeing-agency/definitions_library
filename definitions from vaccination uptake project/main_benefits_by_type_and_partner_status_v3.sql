@@ -29,7 +29,7 @@ Notes:
    details necessary for the creation of this table.
 2) As per the MSD data dictionary: Benefit tables in the IDI cover entitlements and
    IRD EMS records dispensing. Differences between these tables can be due to changes
-   in entiltements, partial dispensing (e.g. due to automated deductions), and differences
+   in entitlements, partial dispensing (e.g. due to automated deductions), and differences
    in timing (weekly/daily vs. monthly).
 3) The script is long as several intermediate tables must first be built. All intermediate
    tables are deleted at the conclusion of the script.

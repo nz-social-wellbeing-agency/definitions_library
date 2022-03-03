@@ -59,7 +59,7 @@ Notes:
 		Client status: Inactive = no longer receiving funding or deceased.
 	- SOCRATES does not map perfectly to the WGSS. The code file Principle Disability Mapping.xlsx
 		contains suggested mappings for identifying principle disability type.
-		People can have up to 15 disagnoses but only two principle diagnoses.
+		People can have up to 15 diagnoses but only two principle diagnoses.
 		There are mapped to six categories that do not align with WGSS.
 	- Use the principal flag to filter diagnoses. Principal diagnoses are the ones
 		that drive eligibility for services.
@@ -77,7 +77,7 @@ Issues:
 	people who respond with ‘a lot of difficulty’ or ‘cannot do at all’ as disabled.
 
 2) Some of the data on needs assessment will be very old (10+ years). Needs assessments
-	happen every three years, so they are not indicatir of whether people are currently
+	happen every three years, so they are not indicator of whether people are currently
 	receiving services.
 
 

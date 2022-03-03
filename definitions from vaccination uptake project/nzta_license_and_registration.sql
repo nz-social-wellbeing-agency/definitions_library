@@ -14,7 +14,7 @@ Description:
 Driver licensing and vehicle registration
 
 Intended purpose:
-Indicatio of whether a person hows an NZ driver's license
+Indication of whether a person has an NZ driver's license
 or has a motor vehicle registered in their name.
 
 Notes:

@@ -18,7 +18,7 @@ Outputs:
 - [IDI_Sandpit].[DL-MAA2021-49].[vacc_family_violence]
 
 Description:
-Family, sexual, and intimiate partner violence.
+Family, sexual, and intimate partner violence.
 
 Intended purpose:
 Identifying people who have been exposed to Family Violence.

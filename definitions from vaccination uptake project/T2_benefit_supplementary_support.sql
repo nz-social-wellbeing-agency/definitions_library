@@ -36,7 +36,7 @@ History (reverse order):
 2019-04-09 AK QA, archived manual list, replaced with join to metadata, value change to total for period
 2019-04-23 AK Changes applied, Code Index for codes 604, 605, 667 not available, Joining two tables, table meta data not available
 2019-04-26 SA notes added above
-2018-12-06 SA reveiwed
+2018-12-06 SA reviewed
 2018-12-04 initiated
 **************************************************************************************************/
 

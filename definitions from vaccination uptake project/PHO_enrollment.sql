@@ -1,5 +1,5 @@
 /**************************************************************************************************
-Title: PHO enrollment
+Title: PHO enrolment
 Author: Craig Wright
 
 Acknowledgements:
@@ -12,7 +12,7 @@ Outputs:
 - [IDI_Sandpit].[DL-MAA2021-49].[vacc_pho_enrollment_2021]
 
 Description:
-Enrollment with Primary Health Organisation (PHO).
+Enrolment with Primary Health Organisation (PHO).
 
 Intended purpose:
 Create variable reporting pho enrolment by month of enrolment pho_enrolment =(0/1)

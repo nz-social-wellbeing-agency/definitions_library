@@ -22,7 +22,7 @@ Outputs:
 Description:
 GP visit proxy indicator
 The General Practice contacts indicator is a proxy indicator of frequency
-of GP contact at the indivudal level by date of visit.
+of GP contact at the individual level by date of visit.
 
 Intended purpose:
 Estimate primary care consults for each snz_uid by date.
@@ -30,8 +30,8 @@ Estimate primary care consults for each snz_uid by date.
 Notes:
 1) The indicator relies primarily on this:
 	- The PHO quarterly reporting of last date of GP contact (up to four visits a year).
-	- The General MEdical Subsidy (GMS) claims for all primary care contacts outside of
-		a persons enrolled GP (all visits).
+	- The General Medical Subsidy (GMS) claims for all primary care contacts outside of
+		when a person is enrolled GP (all visits).
 	- ACC funded primary care contacts.
 	It also relies on laboratory test data and the date of visit that initiated the test request.
 	Approximately 20% of lab tests are requested in the secondary care setting to this is likely
@@ -42,7 +42,7 @@ Notes:
 	in a year. While the indicator will be accurate for most people, a small group will have more
 	visits than the indicator suggests.
 3) Comparisons of population total annual volumes of GP visits collected by the MOH from PHOs
-	compare favourably to the indicator, within a few percent. Total volume comparisions by age,
+	compare favourably to the indicator, within a few percent. Total volume comparisons by age,
 	gender, and ethnic group are also similar but differ by about 5-10%.
 4) We exclude multiple events on the same day, but for some people these are likely to exist.
 5) Final table: Dec 2014-Jan 2021.
@@ -59,9 +59,9 @@ Notes:
 9) A small proportion of people will have multiple visits to a GP on the same day. For some datasets
 	this can be observed via duplicate records. But this can not be reliably detected across datasets.
 	We have not attempted to capture multiple visits on the same day.
-10) The lab tests data includes provider codes. This should include the ID of the refering entity.
+10) The lab tests data includes provider codes. This should include the ID of the referring entity.
 	This definition might be further refined by investigation & use of these codes.
-	For example, if we observe providers who's lab tests never coincide with ACC, GMS, or GP enrolments,
+	For example, if we observe providers whose lab tests never coincide with ACC, GMS, or GP enrolments,
 	then this would suggest these providers are operating in a different function from GPs.
 
 Parameters & Present values:

@@ -17,7 +17,7 @@ Outputs:
 
 
 Description:
-Periods of enrollment in education.
+Periods of enrolment in education.
 
 Intended purpose:
 

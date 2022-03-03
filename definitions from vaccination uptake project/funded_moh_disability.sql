@@ -15,7 +15,7 @@ Description:
 Recent funded MOH disability client in SOCRATES
 
 Intended purpose:
-Identifying peple receiving funding via SOCRATES (MOH) for a disability.
+Identifying people receiving funding via SOCRATES (MOH) for a disability.
 
 Notes:
 

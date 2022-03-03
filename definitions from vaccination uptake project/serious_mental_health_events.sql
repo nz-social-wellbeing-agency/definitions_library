@@ -45,8 +45,8 @@ Notes:
 	4.b Y PRIMHD diagnosis codes
 	5. Y InterRAI diagnosis by question x 2 questions
 	6. Y SOCRATES by diagnosis x 2 codes
-	7. Y MSD incapaciation
-	
+	7. Y MSD incapacitation
+
 3) MoH advises that in PRIMHD, we consider a current referral to be any referral "open" within the period.
 	So, the referral may have started prior or during the study period and the end date will be either during
 	or 	after the end of the study period.

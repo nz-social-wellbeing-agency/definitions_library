@@ -20,7 +20,7 @@ Frequency of receipt.
 Notes:
 1) MSD classifies support payments into three tiers:
 	- T1 includes main benefits types that provide some replacement for income from employment.
-	- T2 includes supplementary benefits like accomodation supplement and winter energy payment.
+	- T2 includes supplementary benefits like accommodation supplement and winter energy payment.
 	- T3 includes hardship and emergency payments.
 	While both T2 and T3 are in addition of a person's main income (e.g. benefit, pension, wages)
 	one of the key differences is that T2 may be ongoing, while T3 are intended to be once-off

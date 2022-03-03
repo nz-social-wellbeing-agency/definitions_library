@@ -27,7 +27,7 @@ Notes:
 3) When link rates checked 12/10/2021:
 	- 3.4 million identities linked to snz_uid values
 	- 50,000 identities did not link to snz_uid
-	Note that MOH are improving quailty and link rates are improving over time.
+	Note that MOH are improving quality and link rates are improving over time.
 
 4) There are multiple version of the CIR. Input table requires renaming as new versions
 	are loaded. Custom naming of output table may also be advised in case of multiple
@@ -53,7 +53,7 @@ Issues:
 1) Dose numbers in the CIR data can contain errors. For example, a person might have no dose 1
 	and two dose 2, or one dose 1 and one dose 3 but no dose 2. It is now recommended to ignore dose
 	number and instead count the number of doses and turn this into vaccination status:
-	1 dose => partially vaccinated, 2 or more doses => fully vaccianted.
+	1 dose => partially vaccinated, 2 or more doses => fully vaccinated.
 
 History (reverse order):
 2021-10-12 SB

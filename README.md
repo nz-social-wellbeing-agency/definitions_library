@@ -1,5 +1,5 @@
 # IDI definitions library
-Duplicate copies of definitions from our projects in a single repository for ease of discovery. These definitions are intended to be compatible with the Dataset Assembly Tool.
+Duplicate copies of definitions from the Social Wellbeing Agency projects in a single repository for ease of discovery. These definitions are intended to be compatible with the Dataset Assembly Tool.
 
 ## Overview
 The Dataset Assembly Tool encourages research projects to structure their input data into population and measures. The population is specific to a specific study and includes who is being studied and over what time period. The measures are not specific to a study. This means they can be reused across research projects.
@@ -19,7 +19,10 @@ Any dependencies for an individual definition should be noted in the header at t
 This repository contains duplicate copies of definitions from other projects. The folders in this project are named according to the project that the definitions originate from.
 
 ## Disclaimer
-The definitions provided in this library were determined by SWA to be suitable in the context of a specific project. Whether or not these definitions are suitable for other projects depends on the context of those projects. Researchers using definitions from this library will need to determine for themselves to what extent the definitions provided here are suitable for reuse in their projects. While SWA provides this library as a resource to support IDI research, it provides no guarantee that these definitions are fit for reuse.
+The definitions provided in this library were determined by the Social Wellbeing Agency to be suitable in the context of a specific project. Whether or not these definitions are suitable for other projects depends on the context of those projects. Researchers using definitions from this library will need to determine for themselves to what extent the definitions provided here are suitable for reuse in their projects. While the Agency provides this library as a resource to support IDI research, it provides no guarantee that these definitions are fit for reuse.
+
+## Citation
+Social Wellbeing Agency. Definitions library. Source code. https://github.com/nz-social-wellbeing-agency/definitions_library
 
 ## Getting Help
 If you have any questions email info@swa.govt.nz

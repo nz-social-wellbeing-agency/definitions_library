@@ -47,6 +47,9 @@ Parameters & Present values:
   Project schema = [DL-MAA2020-01]
  
 Issues:
+1) Starting with the March 2022 refresh, the input table [ov_major_mgmt_periods] is no longer
+   being updated and new tables have been introduced. Definition will need updating to use
+   these new tables for research studying the most recent time periods.
  
 History (reverse order):
 2021-06-04 FL update the input table to the latest reference

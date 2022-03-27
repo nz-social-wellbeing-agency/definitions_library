@@ -36,6 +36,9 @@ Parameters & Present values:
  
 Issues:
 - Trivial number of records have start_date > end_date
+- Starting with the March 2022 refresh, the input table [ov_major_mgmt_periods] is no longer
+   being updated and new tables have been introduced. Definition will need updating to use
+   these new tables for research studying the most recent time periods.
  
 History (reverse order):
 2021-06-09 SA QA

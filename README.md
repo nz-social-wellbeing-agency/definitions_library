@@ -21,6 +21,9 @@ This repository contains duplicate copies of definitions from other projects. Th
 ## Disclaimer
 The definitions provided in this library were determined by the Social Wellbeing Agency to be suitable in the context of a specific project. Whether or not these definitions are suitable for other projects depends on the context of those projects. Researchers using definitions from this library will need to determine for themselves to what extent the definitions provided here are suitable for reuse in their projects. While the Agency provides this library as a resource to support IDI research, it provides no guarantee that these definitions are fit for reuse.
 
+## Acknowledgements
+Informatics for Social Services and Wellbeing (terourou.org) supported the publishing of a number of definitions from the vaccination uptake project.
+
 ## Citation
 Social Wellbeing Agency. Definitions library. Source code. https://github.com/nz-social-wellbeing-agency/definitions_library
 

@@ -49,7 +49,7 @@ Notes:
 	We combine these as follows:
 		ETL=0 & WGSS=1
 		ETL=1 & WGSS=2
-		ETL=3 & WGSS=3 or 4
+		ETL=2 & WGSS=3 or 4
 
 5) When working with SOCRATES code (funded_moh_disability and functional_disability):
 	- Unless you want to know about all historic clients, for most purposes it will

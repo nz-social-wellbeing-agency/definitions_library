@@ -1,0 +1,468 @@
+diagnosis,code_type,code,aux,explanation
+alcohol_abuse,offence,6121,,Trespass Alcoholism And Drug Addiction Act
+alcohol_abuse,offence,8110,,Driving Under Influence
+alcohol_abuse,offence,8111,,Driving Causing Injury Through Drink
+alcohol_abuse,offence,8113,,Driving Causing Injury Through Drink And Drug
+alcohol_abuse,offence,8114,,Driving Causing Death Through Drink
+alcohol_abuse,offence,8116,,Driving Causing Death Through Drink And Drug
+alcohol_abuse,offence,8117,,Causing Injury Through Excess Breath/Alcohol
+alcohol_abuse,offence,8118,,Causing Death Through Excess Breath/Alcohol
+alcohol_abuse,offence,8120,,Driving Under Influence
+alcohol_abuse,offence,8121,,Causing Injury Through Excess Blood/Alcohol
+alcohol_abuse,offence,8122,,Causing Death Through Excess Blood/Alcohol
+alcohol_abuse,offence,8123,,Careless Use Causing Injury Through Drink
+alcohol_abuse,offence,8125,,Careless Use Causing Death Through Drink
+alcohol_abuse,offence,8127,,Drove With Excess Breath/Alcohol
+alcohol_abuse,offence,8128,,Drove With Excess Blood Alcohol
+alcohol_abuse,offence,8130,,Driving Under Influence
+alcohol_abuse,offence,8131,,Driving Under The Influence Of Drink
+alcohol_abuse,offence,8133,,Driving Under The Influence Of Drink And Drug
+alcohol_abuse,offence,8134,,In Charge Motor Vehicle Under Influence Drink
+alcohol_abuse,offence,8136,,In Charge Motor Vehicle Under Influence Drink & Drug
+alcohol_abuse,offence,8190,,Driving Under Influence Drink/Drug
+alcohol_abuse,offence,8191,,Licensed Person Driving Excess Blood Alcohol Level
+alcohol_abuse,offence,8192,,Unlicensed Person Driving Excess Blood Alcoh Level
+alcohol_abuse,offence,8193,,Licensed Person Driving Excess Breath Alcohol Level
+alcohol_abuse,offence,8194,,Unlicensed Person Drive Excess Breath Alcoh Level
+alcohol_abuse,offence,8910,,Driving Under Influence
+alcohol_abuse,offence,8911,,Cause Bodily Injury Through Drink
+alcohol_abuse,offence,8912,,Cause Death Through Drink
+alcohol_abuse,offence,8915,,Drive Under The Influence Of Drink
+alcohol_abuse,offence,8917,,Drive With Excess Blood Alcohol
+alcohol_abuse,offence,8918,,Drive With Excess Breath Alcohol
+alcohol_abuse,offence,8919,,Other Drive Under Influence
+alcohol_abuse,offence,8920,,Attempts To Drive Under Influence
+alcohol_abuse,offence,8921,,Attempts To Drive Und Infldrink
+alcohol_abuse,offence,8923,,Attempts To Drive With Ex Bl Alcohol
+alcohol_abuse,offence,8924,,Attempt Drive Excess Breath Alcohol
+alcohol_abuse,offence,8929,,Other Attempts To Drive Und Influence
+alcohol_abuse,offence,8930,,In Charge Under Influence
+alcohol_abuse,offence,8931,,In Charge Under Influence Drink
+alcohol_abuse,offence,8939,,Other In Charge Under Influence
+alcohol_abuse,offence,A100,,Driving Under The Influence Of Drink Or Drug
+alcohol_abuse,offence,A101,,Driving Under The Influence Of Drink
+alcohol_abuse,offence,A103,,Cause Injury While Under Influence Of Drink
+alcohol_abuse,offence,A105,,Cause Death While Under Influence Of Drink
+alcohol_abuse,offence,A107,,Excess Breath Alcohol Causing Injury
+alcohol_abuse,offence,A108,,Excess Breath Alcohol Causing Death
+alcohol_abuse,offence,A109,,Driving Under The Influence Of Drink/Drug Or Both
+alcohol_abuse,offence,A110,,Cause Injury While Under Influence Of Drink/Drug
+alcohol_abuse,offence,A111,,Cause Death While Under Infl Of Drink/Drug
+alcohol_abuse,offence,A113,,Careless driving while under influence of drink or drug causing death
+alcohol_abuse,offence,A114,,Careless driving while under influence of drink or drug causing injury
+alcohol_abuse,offence,A130,,Drove Under Influence Drink Or Drugs - 3Rd Or Subsequent
+alcohol_abuse,offence,A202,,Alcohol Interlock Licence Holder Offended In Relation To Interlock Device
+alcohol_abuse,offence,A204,,Alcohol Interlock Licensee's Breath Contained Alcohol - Not Over 400 mcgs
+alcohol_abuse,offence,A205,,Zero Alcohol Licensee's Breath Contained Alcohol - Not Over 400 mcgs
+alcohol_abuse,offence,A206,,Alcohol Interlock Licensee's Blood Contained Alcohol - Not Over 80 mcgs
+alcohol_abuse,offence,A207,,Zero Alcohol Licensee's Blood Contained Alcohol - Not Over 80 mcgs
+alcohol_abuse,offence,A208,,Alcohol Interlock Licensee's Breath Contained Alcohol - Over 400 mcgs
+alcohol_abuse,offence,A209,,Zero Alcohol Licensee's Breath Contained Alcohol - Over 400 mcgs
+alcohol_abuse,offence,A210,,Alcohol Interlock Licensee's Blood Contained Alcohol - Over 80 mcgs
+alcohol_abuse,offence,A211,,Zero Alcohol Licensee's Blood Contained Alcohol - Over 80 mgms
+alcohol_abuse,offence,A212,,Alcohol Interlock Licensee's Breath Contained Alcohol - not over 250mcgs
+alcohol_abuse,offence,A213,,Zero Alcohol Licensee's Breath Contained Alcohol - not over 250mcgs
+alcohol_abuse,offence,A214,,Alcohol Interlock Licensee's Blood Contained Alcohol - not over 50mgms
+alcohol_abuse,offence,A215,,Zero Alcohol Licensee's Blood Contained Alcohol - not over 50mgms
+alcohol_abuse,offence,A216,,Alcohol Interlock Licensee's Breath Contained Alcohol - over 250mcgs
+alcohol_abuse,offence,A217,,Zero Alcohol Licensee's Breath Contained Alcohol - over 250mcgs
+alcohol_abuse,offence,A218,,Alcohol Interlock Licensee's Blood Contained Alcohol - over 50mgms
+alcohol_abuse,offence,A219,,Zero Alcohol Licensee's Blood Contained Alcohol - over 50mgms
+alcohol_abuse,offence,A300,,Blood Alcohol Offences
+alcohol_abuse,offence,A301,,Driving With Excess Blood Alcohol Level
+alcohol_abuse,offence,A302,,Driving With Excess Blood Alcohol Concentration
+alcohol_abuse,offence,A303,,Cause Injury Driving Excess Blood Alcohol
+alcohol_abuse,offence,A304,,Causing Death Driving Excess Blood Alcohol
+alcohol_abuse,offence,A314,,Driving With Excess Blood Alcohol Level Exceeds 200
+alcohol_abuse,offence,A320,,Licensed Person With Excess Blood Alcohol Level
+alcohol_abuse,offence,A322,,Unlicensed Person Driving Excess Blood Alc
+alcohol_abuse,offence,A323,,Driving With Excess Blood Alcohol Content
+alcohol_abuse,offence,A324,,Person Und 20 Yr Exceeded Blood Alcohol Limit
+alcohol_abuse,offence,A326,,Person Under 20's Blood Contained Alcohol - Over 30 mgm
+alcohol_abuse,offence,A328,,Person Under 20's Blood Contained Alcohol - 30mgm or Less
+alcohol_abuse,offence,A330,,Drove With Excess Blood Alcohol 3Rd Or Subsequent
+alcohol_abuse,offence,A334,,Excess Blood Alcohol Causing Injury - 3Rd Or Subsequent
+alcohol_abuse,offence,A335,,Excess Blood Alcohol Causing Death - 3Rd Or Subsequent
+alcohol_abuse,offence,A336,,Blood Alcohol Level Exceeded 50mgm but not more than 80mgm
+alcohol_abuse,offence,A338,,Blood Alcohol Level Exceeded 50mgm But No More Than 80mgm - Refused EBT
+alcohol_abuse,offence,A340,,Excess blood alcohol causing death - 3rd or subsequent
+alcohol_abuse,offence,A501,,Driving With Excess Breath Alcohol Level
+alcohol_abuse,offence,A507,,Unlicensed Person Driving Excess Breath Alc
+alcohol_abuse,offence,A514,,Driving With Excess Breath Alcohol Level Exceeds 1000
+alcohol_abuse,offence,A515,,Licensed Person Driving With Excess Breath Alcohol Level
+alcohol_abuse,offence,A518,,Breath alcohol level over 400 mcgs per litre of breath
+alcohol_abuse,offence,A519,,Person Und 20 Yr Exceed Breath Alcohol Limit
+alcohol_abuse,offence,A521,,Person Under 20's Blood Contained Alcohol - Over 150mcg
+alcohol_abuse,offence,A523,,Person Under 20's Blood Contained Alcohol - 150 mcg Or Less
+alcohol_abuse,offence,A525,,Breath Alcohol Level Exceeded 250mcgs But Not More Than 400mcgs
+alcohol_abuse,offence,A530,,Drove With Excess Breath Alcohol 3Rd Or Subsequent
+alcohol_abuse,offence,A531,,Excess Breath Alcohol Causing Injury - 3Rd Or Subsequent
+alcohol_abuse,offence,A532,,Excess Breath Alcohol Causing Death - 3Rd Or Subsequent
+alcohol_abuse,offence,A533,,Excess breath alcohol causing death - 3rd or subsequent
+alcohol_abuse,offence,A601,,Transport Service Driver Under The Influence Of Drink
+alcohol_abuse,offence,A603,,In Charge Transport Service Vehicle Under Influence Of Drink Causing Injury
+alcohol_abuse,offence,A605,,In Charge Transport Service Vehicle Under Influence Of Drink Causing Death
+alcohol_abuse,offence,A607,,Excess Breath Alcohol Causing Injury - In Charge Transport Service Vehicle
+alcohol_abuse,offence,A608,,Excess Breath Alcohol Causing Death - In Charge Transport Service Vehicle
+alcohol_abuse,offence,A609,,Drove In Transport Service Under The Influence Of Drink/Drug Or Both
+alcohol_abuse,offence,A610,,In Charge Transport Service Vehicle Under Influence Drink/Drug Causing Injury
+alcohol_abuse,offence,A611,,In Charge Transport Service Vehicle Under Influence Drink/Drug Causing Death
+alcohol_abuse,offence,A613,,Drove In Transport Service Under Influence Drink Or Drug - 3Rd Or Subsequent
+alcohol_abuse,offence,A614,,Excess Blood Alcohol Causing Injury - In Charge Transport Service Vehicle
+alcohol_abuse,offence,A615,,Excess Blood Alcohol Causing Death - In Charge Transport Service Vehicle
+alcohol_abuse,offence,A627,,Drove In Transport Service With Excess Blood Alcohol Content
+alcohol_abuse,offence,A628,,Transport Service Driver Under 20 Exceeded Blood Alcohol Limit
+alcohol_abuse,offence,A629,,Drove In Transport Service With Excess Blood Alcohol - 3Rd Or Subsequent
+alcohol_abuse,offence,A637,,Transport Service Driver Breath Alcohol Level Over 400 Mcgs Per Litre
+alcohol_abuse,offence,A638,,Transport Service Driver Under 20 Exceeded Breath Alcohol Limit
+alcohol_abuse,offence,A640,,Drove In Transport Service With Excess Breath Alcohol - 3Rd Or Subsequent
+alcohol_abuse,offence,A641,,Transport Service Driver Excess Breath Alcohol Causing Injury - 3Rd Or Subs
+alcohol_abuse,offence,A642,,Transport Service Driver Excess Breath Alcohol Causing Death - 3Rd Or Subs
+alcohol_abuse,offence,A644,,Transport Service Driver Excess Blood Alcohol Causing Injury - 3Rd Or Sub
+alcohol_abuse,offence,A645,,Transport Service Driver Excess Blood Alcohol Causing Death - 3Rd Or Sub
+alcohol_abuse,offence,A660,,Transport Driver Under 20's Blood Contained Alcohol - Over 30 mcg
+alcohol_abuse,offence,A661,,Transport Driver Under-20's Blood Contained Alcohol - 30mgm Or Less
+alcohol_abuse,offence,A662,,Transport Driver Under 20 Breath Contained Alcohol - Over 150 mcg
+alcohol_abuse,offence,A663,,Transport Driver Under 20 Breath Contained Alcohol - 150 mcg Or Less
+alcohol_abuse,offence,A668,,Transport service driver excess breath alcohol causing death - 3rd or sub
+alcohol_abuse,offence,A669,,Careless under influence drink or drug caused death transport service
+alcohol_abuse,offence,A670,,Careless under influence drink or drug caused injury transport service
+alcohol_abuse,offence,A671,,Transport service driver - excess blood alcohol caused death - 3rd or sub
+alcohol_abuse,offence,D507,,Careless Driving Alcohol Involved Causing Injury
+alcohol_abuse,offence,D508,,Careless Driving Alcohol Involved Causing Death
+alcohol_abuse,offence,D513,,Careless Driving Alcohol Inv Cause Injury
+alcohol_abuse,offence,D515,,Careless Driving Drink/Drug Inv Cause Injury
+alcohol_abuse,offence,D516,,Careless Driving Alcohol Inv Cause Death
+alcohol_abuse,offence,D518,,Careless Driving Drink/Drug Inv Cause Death
+alcohol_abuse,offence,L208,,Drove Contrary To An Alcohol Interlock License
+alcohol_abuse,offence,L209,,Drove Contrary To A Zero Alcohol License
+alcohol_abuse,offence,L233,,Drove contrary to terms of alcohol interlock licence - 3rd or subsequent
+alcohol_abuse,offence,L234,,Drove contrary to terms of zero alcohol licence - 3rd or subsequent
+alcohol_abuse,offence,L502,,Learner Driver With Breath Alcohol Level Exceeding 150
+alcohol_abuse,offence,L503,,Learner Driver With Blood Alcohol Level Exceeding 30
+alcohol_abuse,offence,L521,,Restricted Driver With Breath Alcohol Level Exceeding 150
+alcohol_abuse,offence,L522,,Restricted Driver With Blood Alcohol Level Exceeding 30
+alcohol_abuse,offence,W606,,Person Under Purchase Age Bought Alcohol
+alcohol_abuse,offence,W656,,Brought Alcohol Into An Alcohol Banned Area
+alcohol_abuse,offence,Y998,,Causing Injury Driving With Excess Blood Alcohol Level
+alcohol_abuse,DSM,291,,"Alcohol induced disorder (delirium, amnestic, dementia, etc.)"
+alcohol_abuse,DSM,3030,,Alcohol Intoxication
+alcohol_abuse,DSM,3039,,Alcohol Dependence
+alcohol_abuse,DSM,3050,,Alcohol Abuse
+alcohol_abuse,DSM,3575,,Alcoholic polyneuropathy
+alcohol_abuse,DSM,4255,,Alcoholic cardiomyopathy
+alcohol_abuse,DSM,5353,,Alcoholic gastritis
+alcohol_abuse,DSM,5710,,Alcoholic fatty liver
+alcohol_abuse,DSM,5711,,Acute alcoholic hepatitis
+alcohol_abuse,DSM,5712,,Alcoholic cirrhosis of liver
+alcohol_abuse,DSM,5713,,Alcoholic liver damage
+alcohol_abuse,DSM,9800,,Toxic effect of ethyl alcohol
+alcohol_abuse,DSM,9801,,Undetermined poisoning by barbiturates
+alcohol_abuse,external_DSM,8600,,Accidental poisoning by alcoholic beverages
+alcohol_abuse,external_DSM,8601,,Accid poisoning by other/unspec ethyl alcohol products
+alcohol_abuse,external_DSM,8602,,Accidental poisoning by methyl alcohol
+alcohol_abuse,external_DSM,8609,,Accidental poisoning by unspecified alcohol
+alcohol_abuse,external_ICD10,X45,,Accidental poisoning by and exposure to alcohol
+alcohol_abuse,external_ICD10,Y15,,"Poisoning by and exposure to alcohol, undetermined intent"
+alcohol_abuse,external_ICD9,8600,,Accidental poisoning by alcoholic beverages
+alcohol_abuse,external_ICD9,8601,,Accid poisoning by other/unspec ethyl alcohol products
+alcohol_abuse,external_ICD9,8602,,Accidental poisoning by methyl alcohol
+alcohol_abuse,external_ICD9,8609,,Accidental poisoning by unspecified alcohol
+alcohol_abuse,ICD10,F10,,Mental and behavioural disorders due to use of alcohol
+alcohol_abuse,ICD10,G312,,Degeneration of nervous system due to alcohol
+alcohol_abuse,ICD10,G621,,Alcoholic polyneuropathy
+alcohol_abuse,ICD10,G721,,Alcoholic myopathy
+alcohol_abuse,ICD10,I426,,Alcoholic cardiomyopathy
+alcohol_abuse,ICD10,K292,,Alcoholic gastritis
+alcohol_abuse,ICD10,K700,,Alcoholic fatty liver
+alcohol_abuse,ICD10,K701,,Alcoholic hepatitis
+alcohol_abuse,ICD10,K702,,Alcoholic fibrosis and sclerosis of liver
+alcohol_abuse,ICD10,K703,,Alcoholic cirrhosis of liver
+alcohol_abuse,ICD10,K704,,Alcoholic hepatic failure
+alcohol_abuse,ICD10,K709,,"Alcoholic liver disease, unspecified"
+alcohol_abuse,ICD10,K852,,Alcohol-induced acute pancreatitis
+alcohol_abuse,ICD10,K860,,"Alcoholic liver disease, unspecified"
+alcohol_abuse,ICD10,X45,,Accidental poisoning by and exposure to alcohol
+alcohol_abuse,ICD10,Y15,,"Poisoning by and exposure to alcohol, undetermined intent"
+alcohol_abuse,ICD9,291,,"Alcohol (delirium, amnestic, dementia, etc)"
+alcohol_abuse,ICD9,3030,,Acute alcoholic intoxication
+alcohol_abuse,ICD9,3039,,Other and unspecified alcohol dependence
+alcohol_abuse,ICD9,3050,,Alcohol use disorder
+alcohol_abuse,ICD9,3575,,Alcoholic polyneuropathy
+alcohol_abuse,ICD9,4255,,Alcoholic cardiomyopathy
+alcohol_abuse,ICD9,5353,,Alcoholic gastritis
+alcohol_abuse,ICD9,5710,,Alcoholic fatty liver
+alcohol_abuse,ICD9,5711,,Acute alcoholic hepatitis
+alcohol_abuse,ICD9,5712,,Alcoholic cirrhosis of liver
+alcohol_abuse,ICD9,5713,,"Alcoholic liver damage, unspecified"
+alcohol_abuse,ICD9,9800,,Toxic effect of ethyl alcohol
+alcohol_abuse,ICD9,9801,,Undetermined poisoning by barbiturates
+alcohol_abuse,incapacity,7,,"Mental disorders, substance abuse, alcohol"
+alcohol_abuse,incapacity,170,,"Mental disorders, substance abuse, alcohol"
+alcohol_abuse,pharm_chemical,1252,multiple,Naltrexone hydrochloride
+alcohol_abuse,pharm_chemical,1432,sole,Disulfiram
+alcohol_abuse,pharm_chemical,3793,multiple,Naltrexone hydrochloride
+anxiety,DSM,30002,,Generalized anxiety disorder
+anxiety,ICD10,F411,,Generalized anxiety disorder
+anxiety,ICD9,30002,,Generalized anxiety disorder
+anxiety,incapacity,165,,"Mental disorders, other psychological conditions"
+anxiety,incapacity,009,,"Mental disorders, other psychological conditions"
+anxiety,pharm_chemical,1911,multiple,Oxazepam
+anxiety,pharm_chemical,2632,multiple,Alprazolam
+anxiety,pharm_chemical,6006,sole,Buspirone hydrochloride
+anxiety,socrates,1302,,Anxiety disorder
+bipolar,DSM,2960,,"Bipolar disorder, single manic episode"
+bipolar,DSM,2961,,"Manic affective disorder, recurrent episode"
+bipolar,DSM,2964,,"Bipolar affective disorder, manic"
+bipolar,DSM,2965,,"Bipolar affective disorder, depressed"
+bipolar,DSM,2966,,"Bipolar affective disorder, mixed"
+bipolar,DSM,2967,,"Bipolar affective disorder, unspecified"
+bipolar,DSM,29680,,"Manic-depressive psychosis, unspecified"
+bipolar,DSM,29681,,Atypical manic disorder
+bipolar,DSM,29689,,"Manic-depressive psychosis, other"
+bipolar,DSM,30113,,Cyclothymic disorder
+bipolar,ICD10,F30,,Manic episode
+bipolar,ICD10,F31,,Bipolar disorder
+bipolar,ICD10,F340,,Cyclothymic disorder
+bipolar,ICD9,2960,,"Bipolar disorder, single manic episode"
+bipolar,ICD9,2961,,"Manic affective disorder, recurrent episode"
+bipolar,ICD9,2964,,"Bipolar affective disorder, manic"
+bipolar,ICD9,2965,,"Bipolar affective disorder, depressed"
+bipolar,ICD9,2966,,"Bipolar affective disorder, mixed"
+bipolar,ICD9,2967,,"Bipolar affective disorder, unspecified"
+bipolar,ICD9,29680,,"Manic-depressive psychosis, unspecified"
+bipolar,ICD9,29681,,Atypical manic disorder
+bipolar,ICD9,29689,,"Manic-depressive psychosis, other"
+bipolar,ICD9,30113,,Cyclothymic disorder
+bipolar,incapacity,162,,Bipolar disorder
+bipolar,lab_test,BM2,,Lithium
+bipolar,pharm_chemical,1011,multiple,Risperidone
+bipolar,pharm_chemical,1140,multiple,Olanzapine
+bipolar,pharm_chemical,1183,multiple,Quetiapine
+bipolar,pharm_chemical,2466,sole,Lithium carbonate
+bipolar,pharm_chemical,3873,multiple,Ziprasidone
+bipolar,pharm_chemical,3878,multiple,Aripiprazole
+bipolar,pharm_chemical,3940,multiple,Olanzapine pamoate monohydrate
+bipolar,pharm_formulation,131601,multiple,Clonazepam
+bipolar,pharm_formulation,131602,multiple,Clonazepam
+bipolar,socrates,1303,,Bipolar disorder (manic depression)
+depressive,DSM,311,,"Depressive disorder, not elsewhere classified"
+depressive,DSM,2962,,"Major depressive affective disorder, single episode"
+depressive,DSM,2963,,"Major depressive affective disorder, recurrent episode"
+depressive,ICD10,F32,,Depressive episode
+depressive,ICD10,F33,,"Major depressive disorder, recurrent"
+depressive,ICD9,311,,"Depressive disorder, not elsewhere classified"
+depressive,ICD9,2962,,"Major depressive affective disorder, single episode"
+depressive,ICD9,2963,,"Major depressive affective disorder, recurrent episode"
+depressive,incapacity,161,,Depression
+depressive,pharm_chemical,1180,multiple,Venlafaxine
+depressive,pharm_chemical,1190,sole,Citalopram hydrobromide (Celapram)
+depressive,pharm_chemical,1193,sole,Citalopram hydrobromide
+depressive,pharm_chemical,2636,multiple,Fluoxetine hydrochloride
+depressive,pharm_chemical,3785,multiple,Venlafaxine
+depressive,pharm_chemical,3892,multiple,Bupropion hydrochloride
+depressive,pharm_chemical,3901,multiple,Mirtazapine
+depressive,pharm_chemical,3927,multiple,Sertraline
+depressive,socrates,1304,,Depression
+drug_abuse,offence,3160,,Consume/Smoke/Use Drugs (Not Cannabis)
+drug_abuse,offence,3161,,Consume/Smoke/Use Cocaine
+drug_abuse,offence,3162,,Consume/Smoke/Use Heroin
+drug_abuse,offence,3163,,Consume/Smoke/Use Lsd
+drug_abuse,offence,3164,,Consume/Smoke/Use Morphine
+drug_abuse,offence,3165,,Consume/Smoke/Use Opium
+drug_abuse,offence,3166,,Consume/Smoke/Use Other Opiates
+drug_abuse,offence,3167,,Consume/Smoke/Use Stimulants And Depressants
+drug_abuse,offence,3169,,Consume/Smoke/Use Other Drugs (Not Cannabis)
+drug_abuse,offence,3260,,Consume/Smoke/Use Cannabis
+drug_abuse,offence,3261,,Consume/Smoke/Use Cannabis Seed
+drug_abuse,offence,3262,,Consume/Smoke/Use Cannabis Plant
+drug_abuse,offence,3263,,Consume/Smoke/Use Cannabis Resin
+drug_abuse,offence,3264,,Consume/Smoke/Use Cannabis Oil
+drug_abuse,offence,3269,,Consume/Smoke/Use Cannabis Other Form
+drug_abuse,offence,5960,,Consume/Smoke/Use Drugs (New Drugs)
+drug_abuse,offence,5961,,Consume/Smoke/Use Methamphetamine And Amphetamine
+drug_abuse,offence,5962,,Consume/Smoke/Use Ecstasy
+drug_abuse,offence,5963,,Consume/Smoke/Use Fantasy Type Substances
+drug_abuse,offence,5964,,Consume/Smoke/Use Bzp Type Substances
+drug_abuse,offence,5965,,Consume/Smoke/Use 5F-ADB/AMB-FUBINACA
+drug_abuse,offence,6121,,Trespass Alcoholism And Drug Addiction Act
+drug_abuse,offence,8112,,Driving Causing Injury Through Drug
+drug_abuse,offence,8113,,Driving Causing Injury Through Drink And Drug
+drug_abuse,offence,8115,,Driving Causing Death Through Drug
+drug_abuse,offence,8116,,Driving Causing Death Through Drink And Drug
+drug_abuse,offence,8124,,Careless Use Causing Injury Through Drug
+drug_abuse,offence,8126,,Careless Use Causing Death Through Drug
+drug_abuse,offence,8132,,Driving Under The Influence Of Drug
+drug_abuse,offence,8133,,Driving Under The Influence Of Drink And Drug
+drug_abuse,offence,8135,,In Charge Motor Vehicle Under Influence Drug
+drug_abuse,offence,8136,,In Charge Motor Vehicle Under Influence Drink & Drug
+drug_abuse,offence,8190,,Driving Under Influence Drink/Drug
+drug_abuse,offence,8913,,Cause Bodily Injury Through Drugs
+drug_abuse,offence,8914,,Cause Death Through Drugs
+drug_abuse,offence,8916,,Drive Under Influence Of Drugs
+drug_abuse,offence,8922,,Attempts To Drive Und Infldrug
+drug_abuse,offence,8932,,In Charge Under Influence Drug
+drug_abuse,offence,A100,,Driving Under The Influence Of Drink Or Drug
+drug_abuse,offence,A102,,Driving Under The Influence Of A Drug
+drug_abuse,offence,A104,,Cause Injury While Under Influence Of A Drug
+drug_abuse,offence,A106,,Cause Death While Under Influence Of Drug
+drug_abuse,offence,A109,,Driving Under The Influence Of Drink/Drug Or Both
+drug_abuse,offence,A110,,Cause Injury While Under Influence Of Drink/Drug
+drug_abuse,offence,A111,,Cause Death While Under Infl Of Drink/Drug
+drug_abuse,offence,A113,,Careless driving while under influence of drink or drug causing death
+drug_abuse,offence,A114,,Careless driving while under influence of drink or drug causing injury
+drug_abuse,offence,A130,,Drove Under Influence Drink Or Drugs - 3Rd Or Subsequent
+drug_abuse,offence,A401,,Drove Impaired - Blood Contained Evidence Of The Use Of A Qualifying Drug
+drug_abuse,offence,A402,,Drove With Blood Containing Evidence Of Controlled Drug
+drug_abuse,offence,A406,,Impaired Driver Caused Injury - Blood Contained Qualifying Drug
+drug_abuse,offence,A407,,Impaired Driver Caused Death - Blood Contained Qualifying Drug
+drug_abuse,offence,A430,,Drove Impaired - Blood Contained Evidence Of Qualifying Drug - 3rd Or Sub
+drug_abuse,offence,A432,,In Charge With Blood Containing Controlled Drug - Caused Injury - 3rd Or Sub
+drug_abuse,offence,A433,,In Charge With Blood Containing Controlled Drug - Caused Death - 3rd Or Sub
+drug_abuse,offence,A434,,Driver's Blood Contained Evidence Of Use Of Controlled Drug - 3rd Or Sub
+drug_abuse,offence,A602,,Transport Service Driver Under The Influence Of A Drug
+drug_abuse,offence,A604,,In Charge Transport Service Vehicle Under Influence Of A Drug Causing Injury
+drug_abuse,offence,A606,,In Charge Transport Service Vehicle Under Influence Of Drug Causing Death
+drug_abuse,offence,A609,,Drove In Transport Service Under The Influence Of Drink/Drug Or Both
+drug_abuse,offence,A610,,In Charge Transport Service Vehicle Under Influence Drink/Drug Causing Injury
+drug_abuse,offence,A611,,In Charge Transport Service Vehicle Under Influence Drink/Drug Causing Death
+drug_abuse,offence,A613,,Drove In Transport Service Under Influence Drink Or Drug - 3Rd Or Subsequent
+drug_abuse,offence,A646,,Transport Driver Impaired - Blood Contained Evidence Of Qualifying Drug
+drug_abuse,offence,A647,,Transport Driver Impaired - Qualifying Drug in Blood - 3rd Or Sub
+drug_abuse,offence,A648,,Transport Drive's Blood Contained Evidence Of Use Of controlled Drug
+drug_abuse,offence,A653,,Transport Driver Caused Injury - Qualifying Drug In Blood
+drug_abuse,offence,A654,,Transport Driver Caused Death - Qualifying Drug In Blood
+drug_abuse,offence,A655,,Transport Driver's Blood Had Evidence Of Controlled Drug - Caused Injury
+drug_abuse,offence,A656,,Transport Driver's Blood Had Evidence Of Controlled Drug - Caused Death
+drug_abuse,offence,A657,,Transport Driver's Blood Had Controlled Drug - Caused Injury - 3rd Or Sub
+drug_abuse,offence,A658,,Transport Driver's Blood Had Controlled Drug - Caused Death - 3rd Or Sub
+drug_abuse,offence,A659,,Transport Drivers Blood Contained Evidence Of Controlled Drug - 3rd Or Sub
+drug_abuse,offence,A669,,Careless under influence drink or drug caused death transport service
+drug_abuse,offence,A670,,Careless under influence drink or drug caused injury transport service
+drug_abuse,offence,D514,,Careless Driving Drug Inv Cause Injury
+drug_abuse,offence,D515,,Careless Driving Drink/Drug Inv Cause Injury
+drug_abuse,offence,D517,,Careless Driving Drug Inv Cause Death
+drug_abuse,offence,D518,,Careless Driving Drink/Drug Inv Cause Death
+drug_abuse,DSM,291,,"Alcohol (withdraw, amnestic, jealousy, psychosis, etc)"
+drug_abuse,DSM,2920,,Drug withdrawal syndrome
+drug_abuse,DSM,2921,,Drug-induced hallucinosis and delusions
+drug_abuse,DSM,2922,,Pathological drug intoxication
+drug_abuse,DSM,2923,,??
+drug_abuse,DSM,2924,,??
+drug_abuse,DSM,2925,,??
+drug_abuse,DSM,2926,,??
+drug_abuse,DSM,2927,,??
+drug_abuse,DSM,2928,,"Drug-induced (delirium, dementia, amnestic etc)"
+drug_abuse,DSM,2929,,Unspecified drug-induced mental disorder
+drug_abuse,DSM,3040,,Opioid type dependence
+drug_abuse,DSM,3041,,Barbiturate/similarly acting sedative/hypnotic dependence
+drug_abuse,DSM,3042,,Cocaine dependence
+drug_abuse,DSM,3043,,Cannabis dependence
+drug_abuse,DSM,3044,,Amphetamine and other psychostimulant dependence
+drug_abuse,DSM,3045,,Hallucinogen dependence
+drug_abuse,DSM,3046,,Other specified drug dependence
+drug_abuse,DSM,3047,,Comb. of opioid type drug with any other drug dependence
+drug_abuse,DSM,3048,,Combinations of drug dependence excluding opioid type drug
+drug_abuse,DSM,3049,,Unspecified drug dependence
+drug_abuse,DSM,3051,,Tobacco use disorder
+drug_abuse,DSM,3052,,Cannabis use disorder
+drug_abuse,DSM,3053,,Hallucinogen use disorder
+drug_abuse,DSM,3054,,Barbiturate/similarly acting sedative or hypnotic use disord
+drug_abuse,DSM,3055,,Opioid use disorder
+drug_abuse,DSM,3056,,Cocaine use disorder
+drug_abuse,DSM,3057,,Amphetamine or related acting sympathomimetic use disorder
+drug_abuse,DSM,3058,,Antidepressant type use disorder
+drug_abuse,DSM,3059,,"Other, mixed, or unspecified drug use disorder"
+drug_abuse,DSM,V1581,,Personal history of tobacco use
+drug_abuse,external_ICD10,X42,,Accidental poisoning by and exposure to narcotics and hallucinogens
+drug_abuse,external_ICD10,X62,,Intentional self-poisoning by and exposure to narcotics and hallucinogens
+drug_abuse,external_ICD10,Y12,,Poisoning by and exposure to narcotics and hallucinogens
+drug_abuse,external_ICD9,8500,,Accidental poisoning by heroin
+drug_abuse,external_ICD9,8501,,Accidental poisoning by methadone
+drug_abuse,external_ICD9,8502,,Accidental poisoning by other opiates/narcotics
+drug_abuse,ICD10,F11,,Opiod related disorders
+drug_abuse,ICD10,F12,,Cannabis related disorders
+drug_abuse,ICD10,F13,,"Sedative, hypnotic, or anxiolytic related disorders"
+drug_abuse,ICD10,F14,,Cocaine related disorders
+drug_abuse,ICD10,F15,,Other stimulant related disorders
+drug_abuse,ICD10,F16,,Hallucinogen related disorders
+drug_abuse,ICD10,F17,,Nicotine dependence
+drug_abuse,ICD10,F18,,Inhalant related disorders
+drug_abuse,ICD10,F19,,Other psychoactive substance related disorders
+drug_abuse,ICD10,P961,,Neonatal withdrawal symptoms from maternal use of drugs of addiction
+drug_abuse,ICD10,R781,,Finding of opiate in blood
+drug_abuse,ICD10,R782,,Finding of cocaine on blood
+drug_abuse,ICD10,R783,,Finding of hallucinogen in blood
+drug_abuse,ICD10,R784,,Finding of other drugs of addictive potential in blood
+drug_abuse,ICD10,R785,,Finding of other psychotropic drug in blood
+drug_abuse,ICD10,R786,,Finding of steroid agent in blood
+drug_abuse,ICD10,R787,,Finding of abnormal level of heavy metals in blood
+drug_abuse,ICD10,R788,,"Finding of other specified substances, not normally found in blood"
+drug_abuse,ICD10,R789,,"Finding of unspecified substance, not normally found in blood"
+drug_abuse,ICD10,Z812,,Family history of tobacco abuse and dependence
+drug_abuse,ICD10,Z813,,Family history of other psychoactive substance abuse and dependence
+drug_abuse,ICD10,Z814,,Family history of othe substance abuse and dependence
+drug_abuse,ICD9,291,,"Alcohol (withdraw, amnestic, jealousy, psychosis, etc)"
+drug_abuse,ICD9,2920,,Drug withdrawal syndrome
+drug_abuse,ICD9,2921,,Drug-induced hallucinosis and delusions
+drug_abuse,ICD9,2922,,Pathological drug intoxication
+drug_abuse,ICD9,2923,,??
+drug_abuse,ICD9,2924,,??
+drug_abuse,ICD9,2925,,??
+drug_abuse,ICD9,2926,,??
+drug_abuse,ICD9,2927,,??
+drug_abuse,ICD9,2928,,"Drug-induced (delirium, dementia, amnestic etc)"
+drug_abuse,ICD9,2929,,Unspecified drug-induced mental disorder
+drug_abuse,ICD9,3040,,Opioid type dependence
+drug_abuse,ICD9,3041,,Barbiturate/similarly acting sedative/hypnotic dependence
+drug_abuse,ICD9,3042,,Cocaine dependence
+drug_abuse,ICD9,3043,,Cannabis dependence
+drug_abuse,ICD9,3044,,Amphetamine and other psychostimulant dependence
+drug_abuse,ICD9,3045,,Hallucinogen dependence
+drug_abuse,ICD9,3046,,Other specified drug dependence
+drug_abuse,ICD9,3047,,Comb. of opioid type drug with any other drug dependence
+drug_abuse,ICD9,3048,,Combinations of drug dependence excluding opioid type drug
+drug_abuse,ICD9,3049,,Unspecified drug dependence
+drug_abuse,ICD9,3051,,Tobacco use disorder
+drug_abuse,ICD9,3052,,Cannabis use disorder
+drug_abuse,ICD9,3053,,Hallucinogen use disorder
+drug_abuse,ICD9,3054,,Barbiturate/similarly acting sedative or hypnotic use disord
+drug_abuse,ICD9,3055,,Opioid use disorder
+drug_abuse,ICD9,3056,,Cocaine use disorder
+drug_abuse,ICD9,3057,,Amphetamine or related acting sympathomimetic use disorder
+drug_abuse,ICD9,3058,,Antidepressant type use disorder
+drug_abuse,ICD9,3059,,"Other, mixed, or unspecified drug use disorder"
+drug_abuse,ICD9,V1581,,Personal history of tobacco use
+drug_abuse,incapacity,6,,"Mental disorders, substance abuse, other drugs"
+drug_abuse,incapacity,171,,"Mental disorders, substance abuse, drugs"
+drug_abuse,incapacity,172,,"Mental disorders, substance abuse, other substance abuse"
+drug_abuse,pharm_chemical,1252,multiple,Naltrexone hydrochloride
+drug_abuse,pharm_chemical,1432,sole,Disulfiram
+drug_abuse,pharm_chemical,3793,multiple,Naltrexone hydrochloride
+drug_abuse,socrates,1301,,Alcohol / drug related disorder (excluding Korsakov's syndrome)
+dysthymia,DSM,3004,,Neurotic depression
+dysthymia,ICD10,F341,,Dysthymic disorder
+dysthymia,ICD9,3004,,Neurotic depression
+dysthymia,socrates,1304,,Depression
+schizophrenia,DSM,295,,Schizophrenic psychoses
+schizophrenia,ICD10,F20,,Schizophrenia
+schizophrenia,ICD10,F21,,Schizotypal disorder
+schizophrenia,ICD10,F22,,Delusional disorders
+schizophrenia,ICD10,F23,,Brief psychotic disorders
+schizophrenia,ICD10,F24,,Shared psychotic disorder
+schizophrenia,ICD10,F25,,Schizoaffective disorders
+schizophrenia,ICD9,295,,Schizophrenic psychoses
+schizophrenia,incapacity,163,,Schizophrenia
+schizophrenia,pharm_chemical,1011,multiple,Risperidone
+schizophrenia,pharm_chemical,1078,sole,Clozapine
+schizophrenia,pharm_chemical,1140,multiple,Olanzapine
+schizophrenia,pharm_chemical,1183,multiple,Quetiapine
+schizophrenia,pharm_chemical,1532,multiple,Flupenthixol decanoate
+schizophrenia,pharm_chemical,1533,multiple,Fluphenazine decanoate
+schizophrenia,pharm_chemical,1535,multiple,Fluphenazine hydrochloride
+schizophrenia,pharm_chemical,3873,multiple,Ziprasidone
+schizophrenia,pharm_chemical,3878,multiple,Aripiprazole
+schizophrenia,pharm_chemical,3884,sole,Amisulpride
+schizophrenia,pharm_chemical,3940,multiple,Olanzapine pamoate monohydrate
+schizophrenia,pharm_chemical,4025,sole,Paliperidone
+schizophrenia,socrates,1306,,Schizophrenia
